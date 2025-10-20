@@ -1,9 +1,6 @@
 ### Hey there! I'm Sabin Khatri 👋
 
 I'm a passionate developer who loves building web applications with **JavaScript**, **React**, and **Tailwind CSS**. I enjoy creating user-friendly interfaces and exploring modern web technologies.
-#### 📣 My GitHub Community
-![Followers](https://img.shields.io/github/followers/sabin-khatri?style=social)  
-![Following](https://img.shields.io/github/following/sabin-khatri?style=social)
 
 #### 📊 My GitHub Stats
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sabin-khatri&theme=transparent)  
