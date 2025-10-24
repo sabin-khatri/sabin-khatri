@@ -1,8 +1,6 @@
 # Hey there! I'm Sabin Khatri 🚀
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=s marít-khatri&color=6e6b9e&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/sabin-khatri?style=for-the-badge&color=6e6b9e)
 ![GitHub User's stars](https://img.shields.io/github/stars/sabin-khatri?style=for-the-badge&color=6e6b9e)
 
@@ -12,7 +10,7 @@
 
 ## About Me
 
-- **Full-Stack Web Developer** passionate about crafting clean, responsive, and interactive websites  
+- **Frontend Web Developer** passionate about crafting clean, responsive, and interactive websites  
 - Currently mastering **React, JavaScript, Tailwind CSS & Node.js**  
 - Love turning ideas into reality — from UI design to backend logic  
 - Always learning, always building
