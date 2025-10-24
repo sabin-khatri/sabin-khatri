@@ -1,9 +1,5 @@
 # Hey there! I'm Sabin Khatri 🚀
 
-<div align="center">
-![GitHub followers](https://img.shields.io/github/followers/sabin-khatri?style=for-the-badge&color=6e6b9e)
-![GitHub User's stars](https://img.shields.io/github/stars/sabin-khatri?style=for-the-badge&color=6e6b9e)
-
 </div>
 
 ---
