@@ -81,8 +81,7 @@
 ### Current Focus
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=89b4fa&background=1a1b2700&center=true&vCenter=true&width=600&lines=Building+responsive+UIs+with+React;Styling+with+Tailwind+CSS+%F0%9F%92%A8;Deploying+on+Netlify+&+Vercel;Learning+Node.js+&+APIs;Turning+coffee+into+code+%E2%98%95%EF%B8%8F)
 
-### Contribution Graph
-![Activity Graph](https://github-profile-activity-graph.vercel.app/graph?username=sabin-khatri&theme=tokyo-night&bg_color=1a1b27&color=89b4fa&line=7aa2f7&point=f6c177&area=true&hide_border=true&custom_title=My%20Coding%20Journey)
+
 
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sabin-khatri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
