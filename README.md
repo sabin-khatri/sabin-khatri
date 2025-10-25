@@ -7,8 +7,7 @@
 ## About Me
 
 - **Frontend Web Developer** passionate about crafting clean, responsive, and interactive websites  
-- Currently mastering **React, JavaScript, Tailwind CSS & Node.js**  
-- Love turning ideas into reality — from UI design to backend logic  
+- Currently mastering **React, JavaScript, Tailwind CSS**    
 - Always learning, always building
 
 ---
@@ -108,7 +107,6 @@
 - Love trekking in the Himalayas  
 - Coffee > Tea (always)  
 - Obsessed with clean code & dark mode  
-- Building my first SaaS soon
 
 ---
 
