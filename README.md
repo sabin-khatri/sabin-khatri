@@ -85,20 +85,7 @@
 |--------|-------------|------|-----------|
 | **[Chiya Ghar](https://github.com/sabin-khatri/ChiyaAdda)** | Modern restaurant with cart, menu, auth & dark mode | React, Tailwind, Context API | [View Live](https://bespoke-twilight-0dc185.netlify.app/) |
 | **[NepalTreks](https://github.com/sabin-khatri/Trekking-Web)** | Trekking showcase with gallery, booking form & animations | React, Framer Motion, Tailwind | [View Live](https://sabintrek.netlify.app/) |
-| **[DevPort](https://github.com/sabin-khatri/devport)** | Personal portfolio with smooth scroll & theme toggle | Next.js, Tailwind, Framer Motion | [View Live](https://sabinkhatri18.com.np/) |
-
-> *More projects on [GitHub](https://github.com/sabin-khatri)*
 
 </div>
 
----
-## Skills Matrix
-<div align="center">
 
-```text
-React.js        ████████████ 75%
-Tailwind CSS    ██████████████  78%
-JavaScript      █████████████    75%
-Framer Motion   ████████████         72%
-Git & GitHub    ██████████████████   90%
-Responsive UI   ███████████████ 90%
