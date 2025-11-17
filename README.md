@@ -83,8 +83,8 @@
 
 | Project | Description | Tech | Live Demo |
 |--------|-------------|------|-----------|
-| **[Chiya Ghar](https://github.com/sabin-khatri/ChiyaAdda)** | Modern restaurant with cart, menu, auth & dark mode | React, Tailwind, Context API | [View Live](https://bespoke-twilight-0dc185.netlify.app/) |
-| **[NepalTreks](https://github.com/sabin-khatri/Trekking-Web)** | Trekking showcase with gallery, booking form & animations | React, Framer Motion, Tailwind | [View Live](https://sabintrek.netlify.app/) |
+| **[Chiya Ghar](https://github.com/sabin-khatri/ChiyaAdda)** | Modern restaurant with cart, menu, auth & dark mode | HTML, Tailwind CSS, JS | [View Live](https://bespoke-twilight-0dc185.netlify.app/) |
+| **[NepalTreks](https://github.com/sabin-khatri/Trekking-Web)** | Trekking showcase with gallery, booking form & animations | HTML, Tailwind CSS, JS| [View Live](https://sabintrek.netlify.app/) |
 
 </div>
 
