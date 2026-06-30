@@ -87,6 +87,3 @@
 | **[NepalTreks](https://github.com/sabin-khatri/Trekking-Web)** | Trekking showcase with gallery, booking form & animations | HTML, Tailwind CSS, JS| [View Live](https://sabintrek.netlify.app/) |
 
 </div>
-
-
- yo mero github account ko readme ho yeslai ajhai kei garna sakinxa ta
