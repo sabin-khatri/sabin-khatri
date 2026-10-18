@@ -64,9 +64,9 @@ const sabin = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Chiya Ghar**](https://github.com/sabin-khatri/ChiyaAdda) · [Live](https://bespoke-twilight-0dc185.netlify.app/) | Modern restaurant website with menu, cart, authentication and dark mode | HTML · Tailwind · JavaScript |
-| [**NepalTreks**](https://github.com/sabin-khatri/Trekking-Web) · [Live](https://sabintrek.netlify.app/) | Trekking showcase with image gallery, booking form and smooth animations | HTML · Tailwind · JavaScript |
-| **Coming soon** | Next.js + TypeScript project (add yours here) | Next.js · TypeScript |
+| [**Chiya Ghar**](https://github.com/sabin-khatri/ChiyaAdda) · [Live](https://chiya-adda.vercel.app/) | Modern restaurant website with menu, cart, authentication and dark mode | React· Tailwind · JavaScript |
+| [**NepalTreks**](https://github.com/sabin-khatri/Trekking-Web) · [Live](https://trekking-web-mu69.vercel.app/) | Trekking showcase with image gallery, booking form and smooth animations | React · Tailwind · JavaScript |
+| **Coming soon** | Next.js + TypeScript project  | Next.js · TypeScript |
 
 ---
 
