@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sabin Khatri
-Designer · Developer · Doer
+Developer 
 
 </div>
 
